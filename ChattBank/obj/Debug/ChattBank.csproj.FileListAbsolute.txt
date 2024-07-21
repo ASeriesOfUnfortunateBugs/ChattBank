@@ -1,0 +1,15 @@
+C:\Users\super\source\repos\ChattBank\ChattBank\bin\Debug\ChattBank.exe.config
+C:\Users\super\source\repos\ChattBank\ChattBank\bin\Debug\ChattBank.exe
+C:\Users\super\source\repos\ChattBank\ChattBank\bin\Debug\ChattBank.pdb
+C:\Users\super\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.Form1.resources
+C:\Users\super\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.Properties.Resources.resources
+C:\Users\super\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.csproj.GenerateResource.cache
+C:\Users\super\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.exe
+C:\Users\super\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.pdb
+C:\Users\super\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.Login.resources
+C:\Users\super\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.Admin.resources
+C:\Users\super\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.CustHome.resources
+C:\Users\super\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.MngFunds.resources
+C:\Users\super\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.NewAcct.resources

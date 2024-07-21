@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChattBank", "ChattBank\ChattBank.csproj", "{5A60EC93-7BD4-4E38-BC3D-785EF556A893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A60EC93-7BD4-4E38-BC3D-785EF556A893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A60EC93-7BD4-4E38-BC3D-785EF556A893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A60EC93-7BD4-4E38-BC3D-785EF556A893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A60EC93-7BD4-4E38-BC3D-785EF556A893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78F8A5F6-58F3-4DEC-B1E2-B2283E61BD6C}
+	EndGlobalSection
+EndGlobal
