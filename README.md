@@ -8,7 +8,7 @@ The instructor provided several different levels of this project that accounted 
 * A new customer should be able to do the following
     * Log in to their bank account
     * View all of their accounts in list form without supplying account numbers
-    * Create new bank accounts
+    * Create new checking/savings/MMA accounts
     * Deposit or withdraw from any account
 * Admin should be able to do the following
     * Sign in as admin
