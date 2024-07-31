@@ -32,4 +32,4 @@ The final step before presenting the project was to run the program and debug an
 
 Once I was satisfied with the functionality of the application and felt that I met all of the requirements, I presented the completed application to the instructor via video. I received the maximum grade for this assignment.
 
-If you would like to see a demostration video for this project, [you can find it here](https://youtu.be/sPY0heWm0sk).
+If you would like to see a demostration video for this project, [I have one available here](https://youtu.be/sPY0heWm0sk).
