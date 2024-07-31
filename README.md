@@ -30,4 +30,6 @@ I'm very conscientious about using comments to document my projects as I go. By 
 
 The final step before presenting the project was to run the program and debug any errors. I do some debugging as I go. For example, I made sure database access was functional early on so I could test the functionality of the Forms as I programmed them. There were a few things that I struggled with during this phase of development. I had some difficulty in getting the customer accounts to show correctly; however, I was able to work it all out in the end with some minor code changes.
 
-Once I was satisfied with the functionality of the application and felt that I met all of the requirements, I presented the completed application to the instructor via video. I'm planning in the near future to rerecord a presentation video that I will link below for those who wish to see the application in action.
+Once I was satisfied with the functionality of the application and felt that I met all of the requirements, I presented the completed application to the instructor via video. I received the maximum grade for this assignment.
+
+If you would like to see a demostration video for this project, [you can find it here](https://youtu.be/sPY0heWm0sk).
